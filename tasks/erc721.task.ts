@@ -1,6 +1,6 @@
 import { task } from "hardhat/config";
 
-task("mint", "Issues tokens")
+task("mint721", "Issues erc721 token")
   .addParam("contractaddr", "The contract address")
   .addParam("uri", "Token URI")
   .addOptionalParam("recipientaddr", "The recipient address")

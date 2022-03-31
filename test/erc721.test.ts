@@ -32,11 +32,11 @@ describe("ERC721", () => {
   });
 
   it("Should return the token collection name", async () => {
-    expect(await contract.name()).to.equal("NFTSample");
+    expect(await contract.name()).to.equal("NFTSample721");
   });
 
   it("Should return the token collection symbol", async () => {
-    expect(await contract.symbol()).to.equal("SMPL");
+    expect(await contract.symbol()).to.equal("S721");
   });
 
   it("Should issue NFT to the specified account", async () => {
