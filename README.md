@@ -8,7 +8,7 @@ Links:
 - [opensea ERC721 1](https://testnets.opensea.io/assets/0x680ad8a84881b332d458e1dd626b0aed06158e3b/1)
 - [opensea ERC721 2](https://testnets.opensea.io/assets/0x680ad8a84881b332d458e1dd626b0aed06158e3b/2)
 - [etherscan ERC1155](https://rinkeby.etherscan.io/address/0xbdb6e71e05a4829feee5e73096744251c0afebc8)
-
+- [looksrare ERC1155](https://rinkeby.looksrare.org/collections/0xbdB6E71E05A4829FeEE5e73096744251C0AFebc8)
 
 ```shell
 npx hardhat accounts
